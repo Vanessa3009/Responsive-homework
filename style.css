@@ -2,6 +2,7 @@
   --primary-color: rgba(64, 164, 154, 0.845);
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  font-family: "Roboto", sans-serif;
 }
 
 body {
