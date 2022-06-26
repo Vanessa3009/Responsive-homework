@@ -93,6 +93,8 @@ p {
 }
 .intro {
   margin: 50px auto;
+  background: rgba(124, 194, 187, 0.071);
+  max-width: 89%;
 }
 .primary-link {
   margin: 20px;
@@ -110,4 +112,9 @@ p {
   border: #c4cbcb;
   width: 600px;
   height: 100px;
+}
+.description {
+  background: rgba(124, 194, 187, 0.071);
+  max-width: 89%;
+  margin: 50px auto;
 }
