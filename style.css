@@ -2,10 +2,10 @@
   --primary-color: rgba(64, 164, 154, 0.845);
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  font-family: "Roboto", sans-serif;
 }
 
 body {
+  font-family: "Roboto", sans-serif;
   margin: 60px auto;
   max-width: 100%;
 }
@@ -93,7 +93,7 @@ p {
 }
 .intro {
   margin: 50px auto;
-  background: rgba(124, 194, 187, 0.071);
+  background: rgba(124, 194, 187, 0.158);
   max-width: 89%;
 }
 .primary-link {
@@ -114,7 +114,10 @@ p {
   height: 100px;
 }
 .description {
-  background: rgba(124, 194, 187, 0.071);
+  background: rgba(124, 194, 187, 0.158);
   max-width: 89%;
+  margin: 50px auto;
+}
+.portfolio-section {
   margin: 50px auto;
 }
