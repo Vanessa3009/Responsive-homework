@@ -121,3 +121,12 @@ p {
 .portfolio-section {
   margin: 50px auto;
 }
+.open-source {
+  font-size: 12px;
+  opacity: 0.7;
+  text-decoration: none;
+  color: rgb(76, 77, 76);
+  margin: 20px auto;
+  text-align: center;
+  display: block;
+}
